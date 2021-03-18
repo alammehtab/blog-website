@@ -4,7 +4,7 @@ const Header = (props) => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light container">
       <a className="navbar-brand navbar-heading" href="/">
-        DIGITAL DIARY
+        TECH SALAD
       </a>
       <button
         className="btn btn-primary"
